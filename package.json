@@ -2,7 +2,7 @@
   "name": "storybook-addon-lag-radar",
   "description": "See a Lag Radar in your Storybook stories",
   "author": "Arian Allenson Valdez <arianallensonv@gmail.com> (http://arianv.com/)",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "license": "MIT",
   "main": "register.js",
   "dependencies": {},
